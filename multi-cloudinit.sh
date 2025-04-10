@@ -23,7 +23,7 @@ declare -A CLOUD_IMAGES_DISTROS=(
 )
 
 DOWNLOAD_DIR="/tmp/cloud-images"
-CLOUD_IMAGE_RESIZE_SIZE="15G"
+CLOUD_IMAGE_RESIZE_SIZE="18G"
 
 function header_info {
     clear
